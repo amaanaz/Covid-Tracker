@@ -1,5 +1,6 @@
 # Covid-Tracker
-Covid Tracker Dashboard
+Covid Tracker Dashboard  
+Using the MERN stack  
 
 ## Backend
 Made with Express.js  
